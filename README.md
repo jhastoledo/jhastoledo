@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhastoledo"><img alt="LinkedIn: jhastoledo" src="https://img.shields.io/badge/LinkedIn-jhastoledo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jastoledo@gmail.com"><img alt="E-mail: jastoledo@gmail.com" src="https://img.shields.io/badge/E--mail-jastoledo%40gmail.com-C5221F?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jas_toledo@hotmail.com?subject=Contato%20via%20GitHub"><img alt="E-mail: jas_toledo@hotmail.com" src="https://img.shields.io/badge/E--mail-jas__toledo%40hotmail.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"></a>
   <a href="#projetos-em-destaque"><img alt="Projetos em destaque" src="https://img.shields.io/badge/Projetos-em%20destaque-1F6FEB?style=flat-square&logo=github&logoColor=white"></a>
   <img alt="Localização: Juiz de Fora, MG — aberto a realocação" src="https://img.shields.io/badge/Juiz%20de%20Fora%2C%20MG-aberto%20a%20realoca%C3%A7%C3%A3o-2DA44E?style=flat-square">
 </p>
@@ -104,7 +104,7 @@ Os anos de Física aplicada são a base direta do trabalho com dados: modelagem 
 Estou em busca de posição de **Cientista de Dados Júnior** ou **Analista de Dados** — presencial em Juiz de Fora e região, remoto ou com realocação para qualquer estado.
 
 - **LinkedIn:** [linkedin.com/in/jhastoledo](https://www.linkedin.com/in/jhastoledo)
-- **E-mail:** [jastoledo@gmail.com](mailto:jastoledo@gmail.com)
+- **E-mail:** [jas_toledo@hotmail.com](mailto:jas_toledo@hotmail.com?subject=Contato%20via%20GitHub)
 - **Disponibilidade:** imediata
 
 Se algum projeto acima for parecido com um problema seu, me chame — explico as decisões por trás dele em 15 minutos.
